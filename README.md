@@ -6,7 +6,9 @@ Typical format is to have the master branch contain the problem description and 
 
 So, many of the exercises come from either recruitment or teaching experience. Also, several resources and ideas are _reused_ from [this](http://www.sofiacole.com/technology/adopting-scala-the-next-steps/) excellent blog post. At some point maybe the exercises should be rated for difficulty/time required, but that's to come.
 
-* FizzBuzz
+# Hacks
+
+* [FizzBuzz](https://github.com/kings13y/onehourhacks/blob/master/FizzBuzz/README.md)
 
 # Resources
 
